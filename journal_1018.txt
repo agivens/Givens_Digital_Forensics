@@ -1,0 +1,2 @@
+To recover a file you mount the disk image with the file, list everything
+present on the image, and then display the file. This should recover the file.
