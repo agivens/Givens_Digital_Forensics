@@ -1,0 +1,3 @@
+A disk image is a copy of a storage device. The command to make a disk image
+is: dd if=/dev/zero bs=1M count=36 >> example.img. A disk partition is a
+portion of the disk image.
