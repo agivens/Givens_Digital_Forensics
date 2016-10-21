@@ -1,3 +1,9 @@
 A disk image is a copy of a storage device. The command to make a disk image
 is: dd if=/dev/zero bs=1M count=36 >> example.img. A disk partition is a
 portion of the disk image.
+Next to units it says: sectors of 1 * 512 = 512 bytes.
+Each sector is the logical/physical or 512 bytes / 512 bytes. After the simple
+math, the sector size is 1 byte each.
+The start blocks are 8192 and 122880.
+The value for the first image is 4194304 and the value for the second image is
+62914560.
