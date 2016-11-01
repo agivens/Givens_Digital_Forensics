@@ -1,0 +1,5 @@
+The bandwidth of wifi is 802.11n. Wifi has channels 1-11. Channels 1, 6, and 11 are most commonly used because they have the least overlap with the other channels.
+"B" supports up to 11Mbps and runs on the 2.4 GHz frequency. "A" supports up to 54Mbps and signals in the frequency spectrum around 5 GHz. "G" supports up to 54Mbps and uses the 2.4 
+GHz frequency. "N" uses multiple wireless signals and antennas instead of one. "AC" uses dual-band wireless technology. WEP stands for wired equivalent privacy and it is a security
+algorithm for IEEE 802.11 wireless networks. WPA and WPA2 stand for wifi protected access and wifi protected access II. They are security protocols and security certification
+programs. WPA2 is the most secure of these three. Airsnort is a Linux and Microsoft Windows utility for decrypting WEP encryption on an 802.11b network.
