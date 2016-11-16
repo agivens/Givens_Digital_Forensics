@@ -1,0 +1,17 @@
+1.)This shows the DOS partition table for kali-linux-2.0-amd64.iso which
+includes the starts and ends of each "slot".
+2.)The output gives an error message saying, "invalid magic value" because the
+file isn't a DOS partition.
+3.)This shows the DOS partition table for manypartitions3.disk which includes
+the starts and ends of each "slot".
+4.)The DOS partiton files like kali-linux-2.0-amd64.iso and manypartitions3.disk
+show the number of partitons present, the type, and start and end of each. The
+non DOS partiton, newfloppy.img, doesn't show any data because it's not DOS.
+5.)The first column is the "slot" column.
+6.)The "slot" value might mean the different partitons present in the file.
+7.)This listed the supported partiton types for this command.
+8.)
+9.)This gave me the data for all of the partitions.
+10.)This command gave the data for only the Linux partitions.
+11.)Gives all info mmls did, plus size
+12.)
