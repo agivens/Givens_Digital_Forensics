@@ -1,0 +1,11 @@
+1) Tcpdump is a packet analyzer. It allows users to see any packets
+transmitted or received over a network.
+2) Tcpdump would allow someone to check what files someone was
+receiving and/or sending.
+3) Pcap stands for packet capture. This program captures network
+traffic.
+4) Pcap could help someone check somes network history.
+5) Wireshark is a free and open source packet analyzer. It's used for
+network troubleshooting, analysis, and education.
+6) Wireshark allows you to browse the data traffic on a computer
+network.

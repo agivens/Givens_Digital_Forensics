@@ -1,0 +1,15 @@
+1.)fls shows you all the different add ons to get fls to go through. It means
+file list.
+2.)ewf is an advanced write filter.
+3.)This command listed all the files' names.
+4.)A body file is an imediate file with creating a file activity timeline. It's
+a text file that contains one line for each file.
+5.)This command lists the body files of the files listed before.
+6.)This pipes the info we just saw into a text file called bodyfile.txt
+7.)In bodyfile.txt there's the body file for nps-2008-jean.E01.
+8.)-r tells you th rerecurse on the directory entries.
+9.)-m thell you the display output in mactime input format.
+10.)This uses mactime to pipe bodyfile.txt to mactimeout.csv.
+11.)
+12.)
+13.) 

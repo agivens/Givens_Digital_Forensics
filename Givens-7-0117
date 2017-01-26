@@ -1,0 +1,7 @@
+1)
+2) Hidden Message: I hope you didn't translate it by hand. That's what
+computers are for. doing it by hand is inefficient and that's why this
+text is so long. Using string.maketrans() is recommended. Now apply on
+the url. The next url is the same as the last except instead of 'map' 
+on the url, that word is now 'ocr'.
+3)

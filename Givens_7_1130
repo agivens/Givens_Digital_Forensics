@@ -1,0 +1,29 @@
+1.)The command lists both files in the mount directory: nps-2008-jean.dd and 
+nps-2008-jean.info.
+2.)xmount allows you to easily switch between two mounted disk images.
+3.)
+4.)nps-2008-jean.dd and nps-2008-jean.info
+5.)The input library for the file nps-2008-jean.E01 is inside the not-disk 
+image.
+6.)This command lists all the different directories present in the file 
+nps-2008-jean.dd.
+7.)
+8.)A body file is an imediate file with creating a file activity timeline. It's
+a text file that contains one line for each file.
+9.)mactime creates a timelineof file activity based on the fls tool's output.
+This helps detect strange behavior and reconstruct events.
+10.)Date/Time, File Size, Activity Type, Unix Permissions, User & group IDs, 
+inode, and File Name.
+11.)m-modified
+a-accessed
+c-changed
+b-created
+12.)593, 595 and 598
+13.)She mostly modifies or creates files. In the activity type column there are
+mostly m's and b's.
+14.)This command finds and lists all the .xls files on the disk image 
+nps-2008-jean.dd.
+15.)This created the file example.xls with some of the information on the 
+disk image.
+16.)This number was the location of the file. We use it to locate the exact
+file we need.
