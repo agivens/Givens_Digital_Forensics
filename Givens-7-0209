@@ -1,0 +1,33 @@
+1.) This changes the directory to your home directory.
+2.) This makes a directory called m57, changes the directory to m57, 
+then makes another directory called temp.
+3.)This copies the file charlie-2009-12-07.E01 to the directory you
+are currently in.
+4.) This command mounts the ewf file "charlie-2009-12-07.E01" in the
+directory called temp.
+5.) This gives me an error message because the file type cannot be 
+determined.
+6.) This pipes the results of the fls command to the file 
+listofALLfiles.
+7.) This command lists all of the files that have the word "thunder" in
+the title.
+8.) This command makes a directory called "stuffz." 
+9.) This piped the results of the icat command into the file check in 
+the directory stuffz.
+10.)
+11.) This displayed all the emails charlie sent or recieved.
+12.) This found all of the pictures with the word "astronaut" somewhere
+in the title. 
+13.) This found all of the pictures with the word "microscope" somewhere
+in the title.
+14.) 
+15.) Something.jpg is a picture of an astronaut.
+16.)
+17.)Something2.jpg is a picture of a microscope.
+18.) TThis pipes the results of icat of section 13364 into
+charlie_09_12_07_astronaut.jpg. his prints all of the human readable characters in the picture.
+19.) This pipes the results of icat of section 13364 into
+charlie_09_12_07_astronaut.jpg.
+20.)
+21.)
+22.)

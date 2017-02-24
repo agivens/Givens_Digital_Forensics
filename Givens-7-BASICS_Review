@@ -1,0 +1,32 @@
+1.) Some common cases for digital forensics include computer intrusion,
+unauthorized use of corporate computers, child pornography,
+and any crime whose suspect had a computer.
+2.) The three phases of digital forensic analysis are acquisition,
+analysis, presentation.
+3.) 
+4.)
+5.) Inculpatory evidence is evidence that supports a given theory.
+6.) Exculpatory evidence is evodence that condradicts a given theory.
+7.) Evidence of tampering is veidence that the system was tampered 
+with to avoid identification, but doesn't have to necissarily be
+related to any theory.
+8.) The presentation phase presents the conclusions and evidence
+supporting this conclusion. In a legal setting, lawyers must evaluate
+the evidence before it's entered.
+9.) The four conditions for admissibility of forensic evidence are:
+Testing- Can and has the proceedure been tested?
+Error Rate- Is there a known error rate of the procedure?
+Publication- Has the procedure been published and subject to peer 
+review?
+Acceptance- Is the procedure generally accepted in the relevant 
+scientific community?
+10.) A false negative is when a result presents itself as negative
+when in reality, the result is positive. A false negative test ensures
+that the tool provides all available data from the input.
+11.) A false positive is when a result presents itself as positive
+when in reality, the result is negative. A false positive test ensures
+the tool doesn't introduce new data into the output.
+12.) 
+13.) The author encourages the use of open source tools in digital 
+forensics because digital forensics is a maturing science. The tools
+and procedures need to evolve with the science.
