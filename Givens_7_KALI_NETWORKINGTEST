@@ -1,0 +1,26 @@
+1.) The ip address for my computer is 10.4.27.18.
+2.) The address for the room gateway is 10.4.27.254.
+3.) The two DNS addresses are 10.4.250.1 and 10.4.27.254.
+4.) The ping command to check for connectivity in the room is 
+ping -c | 10.4.27.20.
+5.) The command to check for connectivity in the internet without name 
+resolution is ping -c | 4.4.4.4.
+6.) The command to check for connectivity in the internet with name 
+resolution is ping -c | www.google.com.
+7.) The command is /etc/network/interfaces.
+8.) The command is /etc/resolve.conf.
+9.) A DHCP lease is a lease that the network router gives you to 
+access the internet. Yes, these leases are important to access the 
+internet.
+10.) The command is Kismet.
+11.) This command installs the program Sox, a sound processing program.
+12.) Yes, we use things like tcpdump to do so.
+13.) Wardriving is the act of searching for WiFi networks by a person
+in a moving vehicle.
+14.) Wardrving is legal. It's because the phone is passively collecting
+data from wireless routers.
+15.) Piggybacking is when a person uses another person, who can access
+a restricted area, to gain access to said restricted area.
+Piggybacking is illegal because you are accessing the area without
+permission.
+16.) The website wigle.net is a website for wireless network mapping.
